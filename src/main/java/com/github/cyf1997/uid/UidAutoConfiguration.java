@@ -13,6 +13,10 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Lazy;
 
 /**
+ *
+ * <p>
+ *     https://github.com/cyf1997/uid-generator-spring-boot-starter.git
+ * </p>
  * uid 基础自动配置类
  * @author Yunfei Cheng
  * @date 2022/08/12 08:59
