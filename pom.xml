@@ -5,7 +5,7 @@
 
     <groupId>com.github.cyf1997</groupId>
     <artifactId>uid-generator-spring-boot-starter</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.0.RELEASE</version>
     <name>uid-generator-spring-boot-starter</name>
     <description>uid-generator-spring-boot-starter</description>
     <packaging>jar</packaging>
